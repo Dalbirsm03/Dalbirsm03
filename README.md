@@ -28,6 +28,41 @@ Here are some of the languages, frameworks, and tools I work with:
 
 I primarily focus on **Python**, which is my main tool for building AI and machine learning models. Check out my GitHub stats to learn more about the technologies I use most frequently.
 
+
+## 🛠️ Projects Repository
+
+This repository showcases a variety of projects, including **Multiformat PDF Processing using Agents**, **LangChain-powered PDF Processing**, **Gemini Content Extractor**, and **Machine Learning** projects. Each project utilizes cutting-edge technologies and AI tools to deliver innovative solutions.
+
+You can explore these projects in detail by following the links below:
+
+### 📄 **Multiformat PDF Processing using Agents**
+This project allows you to process PDFs in multiple formats, using AI agents to extract, analyze, and process the content in a structured manner.
+
+- **[Multiformat PDF Processing using Agents](https://github.com/Dalbirsm03/Multiformat-PDF-Processing-Agent)**
+
+### 🔗 **LangChain Powered PDF Processing**
+Leverage the power of **LangChain** and **Google Generative AI** to interact with PDFs, perform advanced content extraction, and provide intelligent query responses.
+
+- **[LangChain Powered PDF Processing](https://github.com/Dalbirsm03/LangChain-Powered-PDF)**
+
+### 🤖 **Gemini Content Extractor**
+Utilizes the **Google Gemini API** for content extraction from various URL links and document formats, designed for enhanced AI-driven text summarization and querying.
+
+- **[Gemini Content Extractor](https://github.com/Dalbirsm03/Gemini-Content-Extractor)**
+
+### 📚 **Machine Learning Projects**
+A collection of multiple machine learning projects, each with different models and solutions, ranging from predictive modeling to deep learning.
+
+- **[Machine Learning Projects](https://github.com/Dalbirsm03/Machine-Learning-Projects)**
+
+Feel free to check out these repositories, explore the code, and let me know if you have any questions or suggestions!
+
+
+## 📊 GitHub Stats
+
+![Dalbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dalbirsm03&count_private=true&show_icons=true&hide_title=true&theme=radical)
+
+
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories
