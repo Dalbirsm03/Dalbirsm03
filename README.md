@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate **Python Developer** and **AI Enthusias
 Here are some of the languages, frameworks, and tools I work with:
 
 - **Languages**: Python
-- **Frameworks**: Streamlit, Django, CRew AI, LangChain
+- **Frameworks**: Streamlit, Django, Crew AI, LangChain
 - **Databases**: MySQL, Cassandra, SQLite
 - **AI/ML Tools**: Google Generative AI, TensorFlow, LangChain, OpenAI GPT
 - **Other Tools**: Git, GitHub, VS Code, Jupyter Notebooks
