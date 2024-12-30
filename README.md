@@ -22,13 +22,6 @@ Here are some of the languages, frameworks, and tools I work with:
 - **AI/ML Tools**: Google Generative AI, TensorFlow, LangChain, OpenAI GPT
 - **Other Tools**: Git, GitHub, VS Code, Jupyter Notebooks
 
-## 🚀 **Most Used Languages**:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalbirsm03&layout=compact&langs_count=10&theme=radical)
-
-I primarily focus on **Python**, which is my main tool for building AI and machine learning models. Check out my GitHub stats to learn more about the technologies I use most frequently.
-
-
 ## 🛠️ Projects Repository
 
 This repository showcases a variety of projects, including **Multiformat PDF Processing using Agents**, **LangChain-powered PDF Processing**, **Gemini Content Extractor**, and **Machine Learning** projects. Each project utilizes cutting-edge technologies and AI tools to deliver innovative solutions.
