@@ -38,11 +38,6 @@ Leverage the power of **LangChain** and **Google Generative AI** to interact wit
 
 - **[LangChain Powered PDF Processing](https://github.com/Dalbirsm03/LangChain-Powered-PDF)**
 
-### 🤖 **Gemini Content Extractor**
-Utilizes the **Google Gemini API** for content extraction from various URL links and document formats, designed for enhanced AI-driven text summarization and querying.
-
-- **[Gemini Content Extractor](https://github.com/Dalbirsm03/Gemini-Content-Extractor)**
-
 ### 📚 **Machine Learning Projects**
 A collection of multiple machine learning projects, each with different models and solutions, ranging from predictive modeling to deep learning.
 
