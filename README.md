@@ -28,13 +28,12 @@ This repository showcases a variety of projects, including **Multiformat PDF Pro
 
 You can explore these projects in detail by following the links below:
 
+### 📓 **Lumis - AI-Powered Project Management**
+Lumis is an intelligent project management system leveraging AI to optimize workflows, automate task tracking, and enhance productivity.
+
+- **[Lumis - AI-Powered Project Management](https://github.com/Dalbirsm03/Lumis-Project-Management)**
 ### 📄 **Multiformat PDF Processing using Agents**
 This project allows you to process PDFs in multiple formats, using AI agents to extract, analyze, and process the content in a structured manner.
-
-- **[Multiformat PDF Processing using Agents](https://github.com/Dalbirsm03/Multiformat-PDF-Processing-Agent)**
-
-### 🔗 **LangChain Powered PDF Processing**
-Leverage the power of **LangChain** and **Google Generative AI** to interact with PDFs, perform advanced content extraction, and provide intelligent query responses.
 
 - **[LangChain Powered PDF Processing](https://github.com/Dalbirsm03/LangChain-Powered-PDF)**
 
