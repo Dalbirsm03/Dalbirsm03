@@ -45,7 +45,21 @@ Feel free to check out these repositories, explore the code, and let me know if 
 
 ![Dalbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dalbirsm03&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Dalbirsm03&theme=radical&hide_border=true)
 
+### 📌 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalbirsm03&layout=compact&theme=radical)
+
+### 🚀 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dalbirsm03&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dalbirsm03&theme=radical)
+
+### 🎯 Tech Stack & Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFCC00?style=for-the-badge)
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories
