@@ -31,11 +31,7 @@ You can explore these projects in detail by following the links below:
 ### 📓 **Lumis - AI-Powered Project Management**
 Lumis is an intelligent project management system leveraging AI to optimize workflows, automate task tracking, and enhance productivity.
 
-- **[Lumis - AI-Powered Project Management](https://github.com/Dalbirsm03/L.U.M.I.S)**
-### 📄 **Multiformat PDF Processing using Agents**
-This project allows you to process PDFs in multiple formats, using AI agents to extract, analyze, and process the content in a structured manner.
-
-- **[LangChain Powered PDF Processing](https://github.com/Dalbirsm03/LangChain-Powered-PDF)**
+- **[L.U.M.I.S](https://github.com/Dalbirsm03/L.U.M.I.S)**
 
 ### 📚 **Machine Learning Projects**
 A collection of multiple machine learning projects, each with different models and solutions, ranging from predictive modeling to deep learning.
