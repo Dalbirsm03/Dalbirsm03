@@ -12,15 +12,19 @@ Welcome to my GitHub! I’m a passionate **Python Developer** and **AI Enthusias
 
 🌱 Let's connect, collaborate, and build something amazing! 💻✨
 
+---
+
 ## 🔧 Technologies & Tools
 
 Here are some of the languages, frameworks, and tools I work with:
 
-- **Languages**: Python
-- **Frameworks**: Streamlit, Django, Crew AI, LangChain
-- **Databases**: MySQL, Cassandra, SQLite
-- **AI/ML Tools**: Google Generative AI, TensorFlow, LangChain, OpenAI GPT
-- **Other Tools**: Git, GitHub, VS Code, Jupyter Notebooks
+- **Languages**: Python  
+- **Frameworks**: Streamlit, Django, Crew AI, LangChain  
+- **Databases**: MySQL, Cassandra, SQLite  
+- **AI/ML Tools**: Google Generative AI, TensorFlow, LangChain, OpenAI GPT  
+- **Other Tools**: Git, GitHub, VS Code, Jupyter Notebooks  
+
+---
 
 ## 🛠️ Projects Repository
 
@@ -31,20 +35,23 @@ You can explore these projects in detail by following the links below:
 ### 📓 **Lumis - AI-Powered Project Management**
 Lumis is an intelligent project management system leveraging AI to optimize workflows, automate task tracking, and enhance productivity.
 
-- **[L.U.M.I.S: LLM based Mulimodel Intelligent System](https://github.com/Dalbirsm03/L.U.M.I.S)**
+- **[L.U.M.I.S: LLM based Multimodal Intelligent System](https://github.com/Dalbirsm03/L.U.M.I.S)**
 
 ### 📚 **Machine Learning Projects**
 A collection of multiple machine learning projects, each with different models and solutions, ranging from predictive modeling to deep learning.
 
 - **[Machine Learning Projects](https://github.com/Dalbirsm03/Machine-Learning-Projects)**
 
-Feel free to check out these repositories, explore the code, and let me know if you have any questions or suggestions!
-
+---
 
 ## 📊 GitHub Stats
 
 ![Dalbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dalbirsm03&count_private=true&show_icons=true&hide_title=true&theme=radical)
 
+### 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalbirsm03&layout=compact&theme=radical&langs_count=10)
+
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me!
