@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate **Python Developer**, **AI Engineer**, 
 
 ## 🧠 About Me
 
-🎓 I'm pursuing a **Bachelor’s in Data Science** with a CGPA of **9.3**, combining strong academic fundamentals with a hands-on approach to building real-world AI applications.
+🎓 I pursued a **Bachelor’s in Data Science** with a CGPA of **9.3**, combining strong academic fundamentals with a hands-on approach to building real-world AI applications.
 
 🚀 I thrive on solving complex problems using AI and data-driven strategies. My passion lies in crafting intelligent systems that combine **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and **Agentic Workflows**.
 
