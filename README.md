@@ -1,6 +1,3 @@
-# Create the enhanced README content as a markdown file
-
-readme_content = """
 # 👋 Hello! I'm Dalbirsingh Matharu
 
 Welcome to my GitHub! I’m a passionate **Python Developer**, **AI Engineer**, and **Generative AI Enthusiast** working at the intersection of cutting-edge **Machine Learning**, **LLMs**, and **Multimodal AI Systems**.
@@ -88,9 +85,3 @@ Here’s what I work with regularly:
 🌱 Let's innovate, collaborate, and shape the future of AI together! 💻✨
 """
 
-# Save to a markdown file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
