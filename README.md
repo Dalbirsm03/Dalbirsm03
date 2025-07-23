@@ -29,7 +29,7 @@ Here’s what I work with regularly:
 
 ## 📚 Featured Projects
 
-### 🤖 [**Langchain Agentic Bot – Multi-LLM & Tool Selector**](https://github.com/Dalbirsm03/Langchain_Agentic_Bot)  
+### 🤖 [**Langchain Agentic Bot – Multi-LLM & Tool Selector**](https://github.com/Dalbirsm03/LangGraph_Agentic_ChatBot) 
 > A flexible agentic bot with **user-selectable LLMs** and **dynamic tool routing** using **Langchain**, **Streamlit**, and **LangGraph**.
 
 ---
