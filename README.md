@@ -1,87 +1,115 @@
 # 👋 Hello! I'm Dalbirsingh Matharu
 
-Welcome to my GitHub! I’m a passionate **Python Developer**, **AI Engineer**, and **Generative AI Enthusiast** working at the intersection of cutting-edge **Machine Learning**, **LLMs**, and **Multimodal AI Systems**.
+I'm a **B.E. Data Science graduate (CGPA 9.3)** and **Generative AI &
+Data Science Intern at Worter Technologies**, passionate about building
+**production-grade AI systems** at the intersection of **Generative AI,
+Machine Learning, LLMOps, and MLOps**.
 
----
+🚀 My expertise spans **Python, LLM frameworks, MLOps pipelines, and
+cloud deployment**, with hands-on experience in designing **agentic AI
+workflows**, **forecasting pipelines**, and **SQL automation systems**.
 
-## 🧠 About Me
+💡 I've built **real-world AI solutions** ranging from **autonomous data
+science agents** to **enterprise-level trend forecasting pipelines**
+with observability, monitoring, and CI/CD deployment. I also hold
+**registered IP in Generative AI (SQLAGE)** and have led **AI-powered
+autonomous vehicle development**.
 
-🎓 I pursued a **Bachelor’s in Data Science** with a CGPA of **9.3**, combining strong academic fundamentals with a hands-on approach to building real-world AI applications.
-
-🚀 I thrive on solving complex problems using AI and data-driven strategies. My passion lies in crafting intelligent systems that combine **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and **Agentic Workflows**.
-
-📌 I’m the inventor of **S.Q.L.A.G.E.**—a copyright-registered AI app that generates SQL queries from natural language using **LLMs** and **Google Gemini**.
-
----
+------------------------------------------------------------------------
 
 ## 🔧 Technologies & Tools
 
-Here’s what I work with regularly:
+-   **Languages**: Python, SQL, Solidity\
+-   **Frameworks & Libraries**: LangChain, LangGraph, LangSmith, CrewAI,
+    Streamlit, FastAPI, Django, Scikit-learn, TensorFlow, OpenCV
+-   **AI/ML & GenAI**: OpenAI, Google Gemini, Hugging Face, Ollama, RAG,
+    Prompt Engineering, Multi-Agent Systems, LLMOps
+-   **Data & Analytics**: EDA, ETL, Feature Engineering, Time Series
+    Forecasting, Visualization, Power BI
+-   **MLOps & Cloud**: MLflow, Vertex AI, Docker, GitHub Actions, CI/CD
+    Pipelines, AWS, GCP
+-   **Databases**: MySQL, SQLite, Vector DBs (FAISS, Chroma)
 
-- **Languages**: Python, SQL, Solidity  
-- **Frameworks & Libraries**: Streamlit, LangChain, LangGraph, CrewAI, Django, Scikit-learn, TensorFlow, OpenCV  
-- **AI/ML & GenAI**: OpenAI, Google Gemini, Hugging Face, Ollama, RAG, Prompt Engineering, AI Agents  
-- **Data & Analytics**: EDA, ETL, Feature Engineering, Visualization, Power BI, Time Series  
-- **Tools**: FastAPI, Postman, Git, GitHub, VS Code, Jupyter  
-- **Databases**: MySQL, SQLite, Cassandra, Vector DBs (FAISS, etc.)
-
----
+------------------------------------------------------------------------
 
 ## 📚 Featured Projects
 
-### 🤖 [**Langchain Agentic Bot – Multi-LLM & Tool Selector**](https://github.com/Dalbirsm03/LangGraph_Agentic_ChatBot) 
-> A flexible agentic bot with **user-selectable LLMs** and **dynamic tool routing** using **Langchain**, **Streamlit**, and **LangGraph**.
+### 🤖 [**Data Science Agent -- Autonomous EDA & ML Agent**](https://github.com/Dalbirsm03/LangGraph_Data_Science_Agent)
 
----
+> An **agentic AI pipeline** automating **EDA, RCA, visualization, and
+> ML workflows** using **LangGraph + LangSmith**.\
+> Achieved **95%+ task detection accuracy** and enabled **sub-minute
+> analysis turnaround**.
 
-### 🔷 [**L.U.M.I.S – LLM-based Unified Multimodal Intelligent System**](https://github.com/Dalbirsm03/L.U.M.I.S)
-> An advanced AI assistant that processes screen video, audio, and mouse activity to provide **real-time, context-aware support** with >80% accuracy.  
-> Powered by **Gemini 1.5 Pro**, **GPT-4**, **LangChain**, and **OpenCV**.
+------------------------------------------------------------------------
 
----
+### 📈 [**Trends Forecasting with MLOps**](https://github.com/Dalbirsm03/Trends-Forecasting-Analytics-MLOps-Vertex-AI)
 
-### 🧠 [**S.Q.L.A.G.E. – Generative AI for SQL Automation**] 
-> 🏆 **Copyright Registered (SW-19859/2024)**  
-> A generative AI tool that translates natural language into SQL queries using **RAG**, **LLMs**, and **Gemini AI** — delivering results with ~2.88s mean execution time and 90%+ accuracy.
+> Engineered **multi-time-series forecasting pipelines** with **R² \>
+> 0.99, MSE \< 3**.
+> Implemented **MLOps with MLflow, CI/CD, and Dockerized APIs** deployed
+> on **GCP Vertex AI**.
 
----
+------------------------------------------------------------------------
 
-### 🚗 [**Autonomous Vehicle System – AI-Driven Navigation**](https://github.com/Dalbirsm03/Autonomous-Vehicle-System)  
-> Led the software team for an AI-powered autonomous car using **OpenCV**, **Raspberry Pi**, **Arduino**, and **ML algorithms** for real-time object detection and decision-making.
+### 🔷 [**L.U.M.I.S -- Multimodal AI Assistant**](https://github.com/Dalbirsm03/L.U.M.I.S)
 
----
+> A **real-time multimodal AI system** that analyzes **video, audio, and
+> mouse activity** to provide **context-aware support**.
+> Powered by **Gemini 1.5 Pro, GPT-4, LangChain, and OpenCV**.
 
-### 🕵️ [**Agentic AI – Adaptive RAG System**](https://github.com/Dalbirsm03/LangGraph_RAG)  
-> A smart system with **hallucination detection**, **Pydantic validation**, and **dynamic RAG routing** using **LangGraph**, **Groq**, and **Pydantic**.
+------------------------------------------------------------------------
 
----
+### 🧠 **S.Q.L.A.G.E. -- Generative SQL Assistant**
+
+> 🏆 **Copyright Registered (SW-19859/2024)**
+> Converts natural language into **validated SQL queries** with **\>90%
+> accuracy** and **\~2.88s mean latency**, using **RAG + Gemini AI**.
+
+------------------------------------------------------------------------
+
+### 🤖 [**LangChain Agentic Bot -- Multi-LLM & Tool Selector**](https://github.com/Dalbirsm03/LangGraph_Agentic_ChatBot)
+
+> A flexible **agentic chatbot** with **multi-LLM support** and
+> **dynamic tool routing** built using **LangChain, Streamlit, and
+> LangGraph**.
+
+------------------------------------------------------------------------
+
+### 🚗 [**Autonomous Vehicle System -- AI-Driven Navigation**](https://github.com/Dalbirsm03/Autonomous-Vehicle-System)
+
+> Led the **software team** to design an **autonomous vehicle** with
+> **OpenCV, Raspberry Pi, and Arduino**.
+> Implemented **real-time object detection & avoidance algorithms**,
+> achieving **\~85% testing precision**.
+
+------------------------------------------------------------------------
 
 ## 📜 Certifications
 
-- 🧠 *Machine Learning, Data Science, and Generative AI with Python* – Udemy  
-- 📊 *Microsoft Power BI for Business Intelligence* – Udemy  
-- 🧬 *Getting Started with Deep Learning* – Nvidia
+-   🧠 *Machine Learning, Data Science, and Generative AI with Python*
+    -- Udemy\
+-   📊 *Microsoft Power BI for Business Intelligence* -- Udemy
+-   🧬 *Getting Started with Deep Learning* -- Nvidia
+-   🧩 *Agentic AI Bootcamp with LangGraph and LangChain* -- Udemy
 
----
-
-## 📈 GitHub Stats
-
-![Dalbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dalbirsm03&count_private=true&show_icons=true&hide_title=true&theme=radical)
+------------------------------------------------------------------------
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalbirsm03&layout=compact&theme=radical&langs_count=10)
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalbirsm03&layout=compact&theme=radical&langs_count=10)
 
----
+------------------------------------------------------------------------
 
 ## 📫 Connect With Me
 
-- 🌐 [LinkedIn – Dalbir Singh Matharu](https://www.linkedin.com/in/dalbirsingh-matharu)  
-- 📧 [dalbirsm03@gmail.com](mailto:dalbirsm03@gmail.com)  
-- 🧰 [GitHub – Dalbirsm03](https://github.com/Dalbirsm03)
+-   🌐 [LinkedIn -- Dalbir Singh
+    Matharu](https://www.linkedin.com/in/dalbirsingh-matharu)
+-   📧 <dalbirsm03@gmail.com>
+-   🧰 [GitHub -- Dalbirsm03](https://github.com/Dalbirsm03)
 
----
+------------------------------------------------------------------------
 
-🌱 Let's innovate, collaborate, and shape the future of AI together! 💻✨
-"""
-
+🌱 Let's innovate, collaborate, and build the **next generation of AI
+systems** together! 💻✨
