@@ -19,7 +19,7 @@ autonomous vehicle development**.
 
 ## 🔧 Technologies & Tools
 
--   **Languages**: Python, SQL, Solidity\
+-   **Languages**: Python, SQL, Solidity
 -   **Frameworks & Libraries**: LangChain, LangGraph, LangSmith, CrewAI,
     Streamlit, FastAPI, Django, Scikit-learn, TensorFlow, OpenCV
 -   **AI/ML & GenAI**: OpenAI, Google Gemini, Hugging Face, Ollama, RAG,
@@ -37,7 +37,7 @@ autonomous vehicle development**.
 ### 🤖 [**Data Science Agent -- Autonomous EDA & ML Agent**](https://github.com/Dalbirsm03/LangGraph_Data_Science_Agent)
 
 > An **agentic AI pipeline** automating **EDA, RCA, visualization, and
-> ML workflows** using **LangGraph + LangSmith**.\
+> ML workflows** using **LangGraph + LangSmith**.
 > Achieved **95%+ task detection accuracy** and enabled **sub-minute
 > analysis turnaround**.
 
