@@ -95,13 +95,6 @@ autonomous vehicle development**.
 
 ------------------------------------------------------------------------
 
-### 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalbirsm03&layout=compact&theme=radical&langs_count=10)
-
-
-------------------------------------------------------------------------
-
 ## 📫 Connect With Me
 
 -   🌐 [LinkedIn -- Dalbir Singh
