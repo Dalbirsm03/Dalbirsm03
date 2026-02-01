@@ -13,6 +13,7 @@ Built SQLAGE, a registered Generative AI system for automated SQL generation wit
 Developed autonomous AI agents for data analytics, EDA, RCA, and forecasting pipelines
 Led AI-powered autonomous vehicle system, integrating CNN-based object detection with real-time sensor navigation
 Delivered enterprise-ready AI solutions with production-grade monitoring, error handling, and scalability
+
 ------------------------------------------------------------------------
 
 ## 💻 Tech Stack
