@@ -68,6 +68,11 @@ Delivered enterprise-ready AI solutions with production-grade monitoring, error 
 ![FAISS](https://img.shields.io/badge/FAISS-6A5ACD?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF1493?style=flat-square)
 
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=dalbirsm03&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbirsm03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ------------------------------------------------------------------------
 
