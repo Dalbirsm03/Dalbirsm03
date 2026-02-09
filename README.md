@@ -1,18 +1,12 @@
 # 👋 Hello! I'm Dalbirsingh Matharu
 
-I'm a Data Science & Generative AI Engineer with a B.E. in Data Science (CGPA 9.3) and professional experience as a Generative AI & Data Science Intern at Worter Technologies. I specialize in designing and deploying production-grade AI systems that combine Generative AI, LLMOps, MLOps, and advanced Machine Learning.
+I’m a Data Science & Generative AI Engineer with a B.E. in Data Science (CGPA 9.3), specializing in building production-grade, scalable AI systems using Generative AI, LLMOps, MLOps, and advanced Machine Learning, with proven impact through agentic AI workflows, and enterprise-ready deployments.
 
 🚀 Core Expertise:
 Programming & Tools: Python, SQL, Power BI, Pandas, NumPy
 LLM & AI Frameworks: LangChain, LangGraph, LangSmith, Google Gemini API
 AI System Design: Agentic AI workflows, RAG pipelines, SQL automation, multimodal AI
 MLOps & Cloud: CI/CD deployment, observability, monitoring, cloud-native APIs
-
-💡 Notable Achievements:
-Built SQLAGE, a registered Generative AI system for automated SQL generation with >90% accuracy
-Developed autonomous AI agents for data analytics, EDA, RCA, and forecasting pipelines
-Led AI-powered autonomous vehicle system, integrating CNN-based object detection with real-time sensor navigation
-Delivered enterprise-ready AI solutions with production-grade monitoring, error handling, and scalability
 
 ------------------------------------------------------------------------
 
