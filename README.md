@@ -118,7 +118,6 @@ MLOps & Cloud: CI/CD deployment, observability, monitoring, cloud-native APIs
 ------------------------------------------------------------------------
 
 ## 🌟 Contribution Stats
-![](https://github-readme-stats.vercel.app/api?username=dalbirsm03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=dalbirsm03&radius=10&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 
