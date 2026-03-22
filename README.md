@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Dalbirsingh Matharu
 
-I’m a Data Science & Generative AI Engineer with a B.E. in Data Science (CGPA 9.3), specializing in building production-grade, scalable AI systems using Generative AI, LLMOps, MLOps, and advanced Machine Learning, with proven impact through agentic AI workflows, and enterprise-ready deployments.
+I’m a Data Science & Generative AI Engineer with a B.E. in Data Science (CGPA 9.3), specializing in building production-grade, scalable AI systems using Generative AI, LLMOps, MLOps, and advanced Machine Learning, with proven impact through agentic AI workflows, and enterprise-ready deployments. 
 
 🚀 Core Expertise:
 Programming & Tools: Python, SQL, Power BI, Pandas, NumPy
