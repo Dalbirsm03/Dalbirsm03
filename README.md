@@ -65,7 +65,7 @@ MLOps & Cloud: CI/CD deployment, observability, monitoring, cloud-native APIs
 ------------------------------------------------------------------------
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=dalbirsm03&theme=github_dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=dalbirsm03&theme=github-dark&hide_border=false)
 
 ------------------------------------------------------------------------
 
