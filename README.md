@@ -212,6 +212,6 @@ Software Lead of a 5-person team. Autonomous prototype with OpenCV and sensor fu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&text=Let%27s%20route%20something%20into%20production.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer" />
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=dalbirsm03&icon=0&color=0" /></a>
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=dalbirsm03&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=dalbirsm03&color=brightgreen&style=flat)
