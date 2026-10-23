@@ -123,14 +123,20 @@ Multi-agent SQL Assistant over 400+ tables.
 
 ## Featured Projects
 
+
+---
+
 ### Machine Learning Agentic System
 Give it a dataset and a question. It decides between supervised and unsupervised learning, trains and evaluates the model, then explains the result in plain language.
+
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0A192F?style=flat-square)
 ![Gemini Pro](https://img.shields.io/badge/Gemini%20Pro-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 [![source](https://img.shields.io/badge/view%20source-181717?style=flat-square&logo=github)](https://github.com/Dalbirsm03/Machine-Learning-Agentic-System-LangChain-Framework)
+
+---
 
 ### Data Analyst Agent
 Upload a dataset, ask in plain English. A LangGraph pipeline cleans, validates, retries on failure, runs EDA and root-cause analysis, and generates charts, while a pandas profiling report runs in parallel. LangSmith traces every run. **Hours of manual analysis → minutes.**
@@ -141,6 +147,8 @@ Upload a dataset, ask in plain English. A LangGraph pipeline cleans, validates, 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 [![source](https://img.shields.io/badge/view%20source-181717?style=flat-square&logo=github)](https://github.com/Dalbirsm03/LangGraph_Data_Science_Agent)
 
+---
+
 ### Forecasting Platform on Vertex AI
 Multivariate sales forecasting with MLflow-tracked Linear Regression, Random Forest, and XGBoost runs, served as a containerized FastAPI service with a Streamlit drift-monitoring dashboard. **Stress-tested to sub-50ms p95 latency.**
 
@@ -149,6 +157,8 @@ Multivariate sales forecasting with MLflow-tracked Linear Regression, Random For
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 [![source](https://img.shields.io/badge/view%20source-181717?style=flat-square&logo=github)](https://github.com/Dalbirsm03/Trends-Forecasting-Analytics-MLOps-Vertex-AI)
+
+---
 
 ### Autonomous Vehicle System
 Software Lead of a 5-person team. Autonomous prototype with OpenCV and sensor fusion on Raspberry Pi and Arduino. **2nd place at Exault.**
@@ -187,25 +197,21 @@ Software Lead of a 5-person team. Autonomous prototype with OpenCV and sensor fu
   <img src="https://streak-stats.demolab.com?user=dalbirsm03&theme=github-dark&hide_border=false" />
 </p>
 
-## Let's Connect & Grow Together
+<br/>
 
 <p align="center">
-  <b>Building agents, RAG systems, or LLM products? Stuck on evals, latency, or reliability?<br/>
-  Let's trade notes, collaborate, and ship something great.</b>
+  🌱 Let's innovate, collaborate, and build the <b>next generation of AI systems</b> together! 💻✨
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dalbirsingh-matharu"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dalbirsm03@gmail.com"><img src="https://img.shields.io/badge/Email-dalbirsm03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Dalbirsm03"><img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://claude.ai/artifact/3dBDUDaCKTDLNBPK7WKVQR"><img src="https://img.shields.io/badge/View-Portfolio-5A46F0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dalbirsingh-matharu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dalbirsm03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Dalbirsm03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://claude.ai/artifact/3dBDUDaCKTDLNBPK7WKVQR"><img src="https://img.shields.io/badge/Portfolio-5A46F0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
-
-
-<p align="center">
-  <a href="https://github.com/Dalbirsm03?tab=followers"><img src="https://img.shields.io/github/followers/Dalbirsm03?label=Follow&style=social" /></a>
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&text=Let%27s%20route%20something%20into%20production.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer" />
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=dalbirsm03&icon=0&color=0" /></a>
+</p>
