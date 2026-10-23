@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://claude.ai/artifact/3dBDUDaCKTDLNBPK7WKVQR"><img src="https://img.shields.io/badge/Portfolio-trace-5A46F0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://dalbirsm03.github.io/Dalbirsingh/"><img src="https://img.shields.io/badge/Portfolio-5A46F0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dalbirsingh-matharu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dalbirsm03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20roles-2EA043?style=for-the-badge" />
